@@ -4,7 +4,7 @@ The Water Meter Number DataSet for the research of Water Meter Number Recognitio
 
 The dataset would be available soon.
 
-Note: The Water Meter Number DataSet can only be used for non-commercial research purpose.
+**Note: The Water Meter Number DataSet can only be used for non-commercial research purpose.**
 
 ## Description
 The Water Meter Number DataSet consists of two parts. The first part contains 5000 noisy samples (as shown in Fig. 1a). Within the noisy samples, there is a wide range of variation caused by illumination, refraction, occlusion, etc. The second part contains 1000 clean samples (as shown in Fig. 1b). Both the noisy and clean samples are labeled with sequential characters like “1; 2; 2; 5; 8”.
