@@ -31,8 +31,17 @@ A label l in [10, 19], denotes a character that exceeds "l − 10" (called the "
 If the predicted digit is at the end of the sequence, and is **at "mid-state"**, we subtract the digit by 9.5. For example, a predicted result 12, which means that the corresponding number exceeds 2 but does not reach 3, we choose to predict it as 2 and append a "mid-state" flag to the result by adding the final number with 0.5. If the "mid-state" character is not the last one, then we simply subtract the digit by 10, saying the "lower-state" is selected, which is intuitively more reasonable.
 
 ## Citation and Contact
-For any questions about the dataset, please contact the authors by sending email to yfjiaren@foxmail.com and eelwjin@scut.edu.cn.
 
-## Acknowledgement
-This work was supported in part by GD-NSF under Grant 2017A030312006, in part by the National Key Research and Development Program of China under Grant 2016YFB1001405, and in part by NSFC under Grant 61472144, Grant 61673182, and Grant 61771199.
+Please consider to cite our paper when you use our datasets:
+
+```
+@ARTICLE{8606091,
+    title     = {Fully Convolutional Sequence Recognition Network for Water Meter Number Reading},
+    author    = {F. Yang and L. Jin and S. Lai and X. Gao and Z. Li},
+    journal   = {IEEE Access},
+    year      = {2019},
+}
+```
+
+For any questions about the dataset, please contact the authors by sending email to yfjiaren@foxmail.com and eelwjin@scut.edu.cn.
 
