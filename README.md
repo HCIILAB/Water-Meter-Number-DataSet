@@ -33,6 +33,3 @@ If the predicted digit is at the end of the sequence, and is **at "mid-state"**,
 ## Citation and Contact
 For any questions about the dataset, please contact the authors by sending email to yfjiaren@foxmail.com and eelwjin@scut.edu.cn.
 
-## Acknowledgement
-This work was supported in part by GD-NSF under Grant 2017A030312006, in part by the National Key Research and Development Program of China under Grant 2016YFB1001405, and in part by NSFC under Grant 61472144, Grant 61673182, and Grant 61771199.
-
