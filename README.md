@@ -4,6 +4,9 @@ The Water Meter Number DataSet for the research of Water Meter Number Recognitio
 
 **Note: The Water Meter Number DataSet can only be used for non-commercial research purpose.**
 
+## Download link
+[Download the SCUT-WMN DataSet from OneDrive.](https://1drv.ms/u/s!AlPCATpK8Ix6aj4hfc7lxoJp1hs)
+
 ## Description
 The Water Meter Number DataSet consists of two parts. The first part contains 5000 noisy samples (as shown in Fig. 1a). Within the noisy samples, there is a wide range of variation caused by illumination, refraction, occlusion, etc. The second part contains 1000 clean samples (as shown in Fig. 1b). Both the noisy and clean samples are labeled with sequential characters like "1; 2; 2; 5; 8".
 
