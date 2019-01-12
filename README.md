@@ -2,9 +2,10 @@
 
 The Water Meter Number DataSet for the research of Water Meter Number Recognition is released by Deep Leaning and Visual Computing Lab of South China University of Technology.
 
-The dataset would be available soon.
-
 **Note: The Water Meter Number DataSet can only be used for non-commercial research purpose.**
+
+## Download link
+[Download the SCUT-WMN DataSet from OneDrive.](https://1drv.ms/u/s!AlPCATpK8Ix6aj4hfc7lxoJp1hs)
 
 ## Description
 The Water Meter Number DataSet consists of two parts. The first part contains 5000 noisy samples (as shown in Fig. 1a). Within the noisy samples, there is a wide range of variation caused by illumination, refraction, occlusion, etc. The second part contains 1000 clean samples (as shown in Fig. 1b). Both the noisy and clean samples are labeled with sequential characters like "1; 2; 2; 5; 8".
@@ -33,5 +34,5 @@ If the predicted digit is at the end of the sequence, and is **at "mid-state"**,
 For any questions about the dataset, please contact the authors by sending email to yfjiaren@foxmail.com and eelwjin@scut.edu.cn.
 
 ## Acknowledgement
-This research is supported in part by GD-NSF (no.2017A030312006), the National Key Research and Development Program of China (No. 2016YFB1001405), NSFC (Grant No.: 61472144, 61673182, 61771199), GDSTP (Grant No.: 2017A010101027).
+This work was supported in part by GD-NSF under Grant 2017A030312006, in part by the National Key Research and Development Program of China under Grant 2016YFB1001405, and in part by NSFC under Grant 61472144, Grant 61673182, and Grant 61771199.
 
